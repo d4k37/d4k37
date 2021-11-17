@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/d4k37">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4k37&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4k37&theme=Dracula&show_icons=true" />
 </a>
 
 **Ferramentas de Desenvolvimento**
