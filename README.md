@@ -5,7 +5,6 @@
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-WebGL-red" alt="WebGL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/-Three.JS-lightgrey" alt="ThreeJS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Popos"/></code>
